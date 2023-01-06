@@ -74,7 +74,8 @@ b{
 display: column;
 align-items: flex-start;
 line-height: 0.8;
-padding-left: 2%
+padding-left: 2%;
+color: teal;
 }
 
 h3 {
@@ -82,6 +83,7 @@ h3 {
     text-align: left;
     background-color: light yellow;
     padding-right: 5%;
+    font-size: 25px;
 }
 
 h4 {
