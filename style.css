@@ -83,7 +83,7 @@ h3 {
     text-align: left;
     background-color: light yellow;
     padding-right: 5%;
-    font-size: 23px;
+    font-size: 18px;
 }
 
 h4 {
@@ -147,7 +147,7 @@ main{
  
  .box4{
     width: 90vw;
-    height: 70vh;
+    /* height: 80vh; */
     border: 4px solid navy;
     display: block;
     margin-left: 4%;
