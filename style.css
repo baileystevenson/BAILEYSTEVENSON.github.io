@@ -124,7 +124,7 @@ main{
 
 .box{
     width: 30vw;
-    height: 40vh;
+    height: 35vh;
     border: 1px solid black;
     background-color: aliceblue;
     padding-bottom: 5%
@@ -132,7 +132,7 @@ main{
  }
 .box2{
     width: 30vw;
-    height: 40vh;
+    height: 35vh;
     border: 1px solid black;
     background-color: aliceblue;
     padding-bottom: 5%
@@ -140,7 +140,7 @@ main{
 
 .box3{
     width: 30vw;
-    height: 40vh;
+    height: 35h;
     border: 1px solid black;
     background-color: aliceblue;
     padding-bottom: 5%
@@ -148,7 +148,7 @@ main{
  
  .box4{
     width: 90vw;
-    height: 100vh;
+    height: 80vh;
     border: 4px solid navy;
     display: block;
     margin-left: 4%;
