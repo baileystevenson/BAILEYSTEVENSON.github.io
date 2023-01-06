@@ -83,6 +83,7 @@ h3 {
     text-align: left;
     background-color: light yellow;
     padding-right: 5%;
+    line-height: .5;
   
 }
 
@@ -123,7 +124,7 @@ main{
 
 .box{
     width: 30vw;
-    height: 35vh;
+    height: 40vh;
     border: 1px solid black;
     background-color: aliceblue;
     padding-bottom: 5%
@@ -131,7 +132,7 @@ main{
  }
 .box2{
     width: 30vw;
-    height: 35vh;
+    height: 40vh;
     border: 1px solid black;
     background-color: aliceblue;
     padding-bottom: 5%
@@ -139,7 +140,7 @@ main{
 
 .box3{
     width: 30vw;
-    height: 35vh;
+    height: 40vh;
     border: 1px solid black;
     background-color: aliceblue;
     padding-bottom: 5%
@@ -147,7 +148,7 @@ main{
  
  .box4{
     width: 90vw;
-    height: 95vh;
+    height: 100vh;
     border: 4px solid navy;
     display: block;
     margin-left: 4%;
